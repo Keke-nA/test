@@ -7,6 +7,6 @@ int main()
     std::cin >> gao;
     std::cout << gao << std::endl;
     std::cout << "hello world" << '\n';
-    std;
+    std::cout << "hello" << '\n';
     return 0;
 }
