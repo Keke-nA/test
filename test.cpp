@@ -8,5 +8,6 @@ int main()
     std::cout << gao << std::endl;
     std::cout << "hello world" << '\n';
     std::cout << "hello" << '\n';
+    std::cout << "its ok!" <<'\n';
     return 0;
 }
